@@ -1,1 +1,1 @@
-hello world
+Make Borsh, Not War
